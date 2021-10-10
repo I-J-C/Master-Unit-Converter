@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">UnitConversion</string>
+    <string name="txtTitleMain">Unit Conversion</string>
+    <string name="firstPrompt">Choose a category to convert:</string>
+    <string name="strDistance">Distance</string>
+    <string name="strTime">Time</string>
+    <string name="strVolume">Volume</string>
+    <string name="strWeight">Weight</string>
+    <string name="txtBtnStart">START</string>
+    <string name="txtBtnConvert">CONVERT</string>
+    <string name="txtTo">TO</string>
+    <string name="hint">Quantity</string>
+    <string name="titleDistance">Distance Converter</string>
+    <string name="titleTime">Time Converter</string>
+    <string name="titleVolume">Volume Converter</string>
+    <string name="titleWeight">Weight Converter</string>
+    <string-array name="timeUnits">
+        <item>Seconds</item>
+        <item>Minutes</item>
+        <item>Hours</item>
+        <item>Days</item>
+        <item>Weeks</item>
+        <item>Months</item>
+        <item>Years</item>
+    </string-array>
+    <string-array name="distanceUnits">
+        <item>Inches</item>
+        <item>Feet</item>
+        <item>Yards</item>
+        <item>Miles</item>
+        <item>Millimeters</item>
+        <item>Centimeters</item>
+        <item>Meters</item>
+        <item>Kilometers</item>
+    </string-array>
+    <string-array name="weightUnits">
+        <item>Ounces</item>
+        <item>Pounds</item>
+        <item>Tons</item>
+        <item>Grams</item>
+        <item>Kilograms</item>
+        <item>Metric Tons</item>
+    </string-array>
+    <string-array name="volumeUnits">
+        <item>Teaspoons</item>
+        <item>Tablespoons</item>
+        <item>Fluid Ounces</item>
+        <item>Cups</item>
+        <item>Pints</item>
+        <item>Quarts</item>
+        <item>Gallons</item>
+        <item>Cubic Inches</item>
+        <item>Cubic Feet</item>
+        <item>Liters</item>
+        <item>Milliliters</item>
+        <item>Cubic Meters</item>
+    </string-array>
+</resources>
